@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to right, #f0f2f5, #e4e6eb);
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.main-container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+h1 {
+    text-align: center;
+    color: #7b2cbf;
+    margin-bottom: 20px;
+}
+
+.radio-container {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+
+#sales-line-chart {
+    border-radius: 8px;
+    padding: 8px;
+}
